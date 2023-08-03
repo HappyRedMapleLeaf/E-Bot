@@ -1,4 +1,5 @@
-#web server stuff used in combination with uptimerobot to keep the repl on 24/7
+# web server stuff used in combination with uptimerobot to keep the repl on 24/7
+# source: https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 from flask import Flask
 from threading import Thread
 
