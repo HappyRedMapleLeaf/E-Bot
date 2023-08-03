@@ -1,0 +1,4559 @@
+2022-10-29 17:45:05.883370:
+started
+
+2022-10-29 17:46:26.401019:
+started
+
+2022-10-29 18:48:07.902480:
+started
+
+2022-10-29 21:18:09.087262:
+started
+
+2022-10-29 22:32:48.465753:
+started
+
+2022-10-30 01:03:01.450610:
+started
+
+2022-10-30 02:17:46.263247:
+started
+
+2022-10-30 09:47:49.898924:
+started
+
+2022-10-30 11:02:50.254454:
+started
+
+2022-10-30 19:47:56.569131:
+started
+
+2022-10-30 20:33:31.502812:
+started
+
+2022-10-31 01:33:03.444141:
+started
+
+2022-10-31 05:18:07.781399:
+started
+
+2022-10-31 06:33:12.908398:
+started
+
+2022-10-31 07:55:06.470717:
+started
+
+2022-10-31 15:55:04.667202:
+started
+
+2022-11-01 01:40:19.287120:
+started
+
+2022-11-01 05:25:45.268440:
+started
+
+2022-11-01 08:10:41.781680:
+started
+
+2022-11-01 11:55:47.453372:
+started
+
+2022-11-01 13:10:56.297895:
+started
+
+2022-11-01 14:25:34.125863:
+started
+
+2022-11-01 14:40:26.823577:
+started
+
+2022-11-01 16:40:23.070645:
+started
+
+2022-11-01 17:55:57.157921:
+started
+
+2022-11-01 20:25:29.502351:
+started
+
+2022-11-01 22:55:31.999887:
+started
+
+2022-11-02 07:40:29.098235:
+started
+
+2022-11-02 10:10:34.764410:
+started
+
+2022-11-02 20:10:53.658469:
+started
+
+2022-11-02 21:25:49.299829:
+started
+
+2022-11-03 01:10:28.537495:
+started
+
+2022-11-03 02:25:40.614644:
+started
+
+2022-11-03 07:25:36.258787:
+started
+
+2022-11-03 08:25:29.251226:
+started
+
+2022-11-03 10:55:34.195910:
+started
+
+2022-11-03 13:55:21.082344:
+started
+
+2022-11-03 15:11:12.875340:
+started
+
+2022-11-03 17:40:22.210669:
+started
+
+2022-11-03 18:55:25.701569:
+started
+
+2022-11-03 21:10:47.169281:
+started
+
+2022-11-03 22:10:42.317245:
+started
+
+2022-11-03 23:25:21.347320:
+started
+
+2022-11-04 03:10:26.980891:
+started
+
+2022-11-04 06:40:20.537014:
+started
+
+2022-11-04 07:55:42.669454:
+started
+
+2022-11-04 14:10:53.602282:
+started
+
+2022-11-04 15:26:06.478588:
+started
+
+2022-11-04 19:10:41.113845:
+started
+
+2022-11-04 21:40:30.736916:
+started
+
+2022-11-05 03:55:30.792290:
+started
+
+2022-11-05 05:10:48.717137:
+started
+
+2022-11-05 12:35:57.799361:
+started
+
+2022-11-05 16:21:04.747884:
+started
+
+2022-11-05 20:05:58.641784:
+started
+
+2022-11-05 21:20:56.742789:
+started
+
+2022-11-05 21:57:22.196247:
+daily added
+
+2022-11-05 22:35:55.451260:
+started
+
+2022-11-06 01:05:55.127736:
+started
+
+2022-11-06 02:21:19.978324:
+started
+
+2022-11-06 05:05:58.576779:
+started
+
+2022-11-06 06:20:58.475586:
+started
+
+2022-11-06 17:06:00.659277:
+started
+
+2022-11-06 19:35:59.952013:
+started
+
+2022-11-07 00:36:10.347249:
+started
+
+2022-11-07 01:51:00.599999:
+started
+
+2022-11-07 04:20:56.873099:
+started
+
+2022-11-07 05:35:58.537155:
+started
+
+2022-11-07 11:51:10.796627:
+started
+
+2022-11-07 13:06:08.469548:
+started
+
+2022-11-07 18:49:14.651898:
+started
+
+2022-11-08 07:26:59.447956:
+started
+
+2022-11-08 08:42:08.653437:
+started
+
+2022-11-08 11:11:56.330085:
+started
+
+2022-11-08 14:27:22.597889:
+started
+
+2022-11-08 18:12:59.603621:
+started
+
+2022-11-08 19:12:07.379485:
+started
+
+2022-11-08 20:11:09.672579:
+daily added
+
+2022-11-08 21:43:23.674418:
+started
+
+2022-11-09 00:12:45.410948:
+started
+
+2022-11-09 01:27:28.340698:
+started
+
+2022-11-09 06:27:47.002602:
+started
+
+2022-11-09 07:42:31.892873:
+started
+
+2022-11-09 10:12:32.957478:
+started
+
+2022-11-09 20:57:08.842250:
+daily added
+
+2022-11-09 20:57:10.594113:
+started
+
+2022-11-09 22:12:24.539838:
+started
+
+2022-11-09 23:27:10.448315:
+started
+
+2022-11-10 00:42:08.395186:
+started
+
+2022-11-10 03:12:51.701257:
+started
+
+2022-11-10 08:12:26.323285:
+started
+
+2022-11-10 08:16:21.799359:
+daily added
+
+2022-11-10 11:57:32.672987:
+started
+
+2022-11-10 13:13:04.067661:
+started
+
+2022-11-10 15:42:18.936553:
+started
+
+2022-11-10 20:27:29.516446:
+started
+
+2022-11-10 21:42:15.456520:
+started
+
+2022-11-11 00:12:27.277798:
+started
+
+2022-11-11 00:18:29.492741:
+daily added
+
+2022-11-11 12:42:07.569400:
+started
+
+2022-11-11 16:27:10.834586:
+started
+
+2022-11-11 23:57:18.846309:
+started
+
+2022-11-12 02:27:32.960422:
+daily added
+
+2022-11-12 02:27:34.375730:
+started
+
+2022-11-12 09:51:31.075736:
+started
+
+2022-11-12 10:05:59.166114:
+started
+
+2022-11-12 11:21:06.080705:
+started
+
+2022-11-12 12:35:52.225076:
+started
+
+2022-11-12 16:05:54.920505:
+started
+
+2022-11-12 22:50:49.493878:
+started
+
+2022-11-13 00:05:57.329621:
+started
+
+2022-11-13 01:21:48.431944:
+daily added
+
+2022-11-13 01:21:48.912804:
+started
+
+2022-11-13 02:35:44.259389:
+started
+
+2022-11-13 03:50:44.584300:
+started
+
+2022-11-13 05:05:44.855235:
+started
+
+2022-11-13 19:06:26.991264:
+started
+
+2022-11-13 20:21:00.439573:
+started
+
+2022-11-13 21:35:52.888038:
+started
+
+2022-11-13 22:06:08.498807:
+started
+
+2022-11-13 23:21:25.607104:
+started
+
+2022-11-14 00:36:25.271319:
+started
+
+2022-11-14 06:51:03.480604:
+started
+
+2022-11-14 10:23:34.276755:
+started
+
+2022-11-14 12:53:19.092283:
+started
+
+2022-11-14 19:08:14.475955:
+started
+
+2022-11-14 22:53:07.904788:
+started
+
+2022-11-15 00:23:15.838238:
+started
+
+2022-11-15 02:38:20.073857:
+started
+
+2022-11-15 03:53:09.653615:
+started
+
+2022-11-15 04:58:50.640725:
+started
+
+2022-11-15 07:29:02.328003:
+started
+
+2022-11-15 08:43:40.486064:
+started
+
+2022-11-15 11:14:03.373484:
+started
+
+2022-11-15 13:44:00.488444:
+started
+
+2022-11-15 16:13:43.591731:
+started
+
+2022-11-15 16:19:31.369637:
+daily added
+
+2022-11-15 21:14:39.367453:
+started
+
+2022-11-15 22:28:42.908905:
+started
+
+2022-11-16 00:59:05.759830:
+started
+
+2022-11-16 02:13:52.368977:
+started
+
+2022-11-16 07:28:50.562402:
+started
+
+2022-11-16 09:58:48.994110:
+started
+
+2022-11-16 11:14:06.234953:
+started
+
+2022-11-16 13:43:38.686803:
+started
+
+2022-11-16 14:58:48.702174:
+started
+
+2022-11-16 17:29:04.003193:
+started
+
+2022-11-16 18:43:54.200211:
+started
+
+2022-11-17 06:28:45.117020:
+started
+
+2022-11-17 10:13:51.704688:
+started
+
+2022-11-17 12:43:45.935442:
+started
+
+2022-11-17 13:59:11.305314:
+started
+
+2022-11-17 16:28:47.751646:
+started
+
+2022-11-17 18:58:54.539651:
+started
+
+2022-11-17 19:13:26.598397:
+started
+
+2022-11-17 19:14:56.709365:
+started
+
+2022-11-17 19:18:38.562718:
+started
+
+2022-11-17 19:52:12.873080:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:16.868780:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:19.437611:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:22.130337:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:28.197247:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:31.354259:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:32.693988:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:34.898673:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:38.538309:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:41.906381:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:43.102040:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:44.264935:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:45.650639:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:53.654858:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 19:52:53.922690:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 542, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding our rate limits frequently. Please read our docs at https://discord.com/developers/docs/topics/rate-limits to prevent this moving forward.
+
+
+2022-11-17 20:30:38.626507:
+started
+
+2022-11-17 20:34:43.444187:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 330, in on_message
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | discord.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1015</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 76bcf72168a5ada0 &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-11-18 01:34:43 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (discord.com) has banned you temporarily from accessing this website.</p>
+            
+          </div>
+
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">76bcf72168a5ada0</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">34.73.72.28</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'76bcf72168a5ada0',m:'e.PcbGTe5nwDEDt5gSFixn3_MGYw9SP5zdfRcuKRMXg-1668735283-0-AWjmh+Aw4o1xi503ir4RwGjPNG8axztpBebmTl5s7GjOHgxr6CzWTLyMXEs+ebl1gyk2w0vKQZ1WBe8WS8kI7k/GNwoqXh/hIj6/4t7Vc8+0P17GflK/dqOvWozvXjIqusj8mAB8a6Bm/rKULG8upknz+UXTUNa+S6fLLArLztVd',s:[0x44584262fd,0xbea5cde694],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+
+
+2022-11-17 20:34:59.830600:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 327, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 534, in check_correct
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | discord.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1015</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 76bcf787cfa1acf2 &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-11-18 01:34:59 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (discord.com) has banned you temporarily from accessing this website.</p>
+            
+          </div>
+
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">76bcf787cfa1acf2</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">34.73.72.28</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'76bcf787cfa1acf2',m:'BzbR8PmSe5dc.YJ.F74I2n63qEzFaKK.VAd0BlcQkX8-1668735299-0-AYiYVvv7+rABiF6hzQKLHDfPyXprZUo5Oz/067xBj6ZPTgM18l7JCc385JnhQ8OTcRFpyczlTfrmRrSG/iKByW3jNJ7dM6VpJH4L//m+jeSmqfdjQtAZYZVZjJvnbS2Fu3Y8oh0Nw/salpQ3qM6WmA/RC/6lem10/mGpE/DOyxWM',s:[0x9537623c66,0x0bc3cb2cbd],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+
+
+2022-11-17 20:37:31.481892:
+started
+
+2022-11-18 06:28:56.537148:
+started
+
+2022-11-18 07:29:17.929488:
+started
+
+2022-11-18 11:10:42.157820:
+started
+
+2022-11-18 12:06:40.843080:
+daily added
+
+2022-11-18 14:55:37.312197:
+started
+
+2022-11-18 16:10:38.728623:
+started
+
+2022-11-18 21:26:51.659458:
+started
+
+2022-11-19 00:56:52.899287:
+daily added
+
+2022-11-19 00:56:53.400978:
+started
+
+2022-11-19 03:27:00.165435:
+started
+
+2022-11-19 11:11:38.837135:
+started
+
+2022-11-19 19:57:00.142124:
+started
+
+2022-11-19 22:42:12.568408:
+started
+
+2022-11-20 09:56:56.496568:
+started
+
+2022-11-20 16:11:59.727594:
+daily added
+
+2022-11-20 16:12:01.277634:
+started
+
+2022-11-20 18:41:38.745058:
+started
+
+2022-11-21 02:27:20.247797:
+started
+
+2022-11-21 08:06:06.985866:
+daily added
+
+2022-11-21 08:06:07.938267:
+started
+
+2022-11-21 13:38:14.636481:
+started
+
+2022-11-21 16:07:42.559285:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+
+2022-11-21 17:22:45.470189:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+
+2022-11-21 19:11:49.353036:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+
+2022-11-21 19:18:10.146355:
+started
+
+2022-11-21 19:21:44.132937:
+started
+
+2022-11-21 19:29:01.169838:
+started
+
+2022-11-21 19:29:04.444510:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 556, in check_correct
+    "**_Primary Chain_** --- Deletion: Not replying to a message " + m.id)
+TypeError: can only concatenate str (not "int") to str
+
+
+2022-11-21 19:33:00.783240:
+started
+
+2022-11-21 22:43:19.380089:
+started
+
+2022-11-21 23:58:31.340464:
+started
+
+2022-11-22 09:52:24.648240:
+started
+
+2022-11-22 10:58:25.765895:
+started
+
+2022-11-22 14:31:46.587059:
+started
+
+2022-11-22 20:32:06.631704:
+started
+
+2022-11-23 19:02:21.071763:
+daily added
+
+2022-11-23 19:02:21.966374:
+started
+
+2022-11-24 13:32:29.265773:
+started
+
+2022-11-25 11:17:25.385927:
+daily added
+
+2022-11-25 11:17:26.084697:
+started
+
+2022-11-25 16:20:38.897525:
+daily added
+
+2022-11-25 16:20:39.436065:
+started
+
+2022-11-25 17:32:32.582476:
+started
+
+2022-11-26 06:47:26.695288:
+started
+
+2022-11-27 00:47:47.891163:
+started
+
+2022-11-27 10:12:22.704367:
+daily added
+
+2022-11-28 00:20:09.593954:
+started
+
+2022-11-28 01:20:40.777207:
+started
+
+2022-11-28 09:50:08.451902:
+started
+
+2022-11-28 13:35:32.341675:
+started
+
+2022-11-28 16:07:19.427579:
+started
+
+2022-11-28 21:07:08.577736:
+started
+
+2022-11-29 05:25:08.750027:
+started
+
+2022-11-29 16:57:16.149813:
+daily added
+
+2022-11-29 20:09:58.882368:
+started
+
+2022-11-30 00:09:51.353327:
+started
+
+2022-11-30 03:10:13.290534:
+started
+
+2022-11-30 11:40:02.329330:
+started
+
+2022-11-30 14:06:22.008756:
+daily added
+
+2022-11-30 14:06:48.096447:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+TypeError: on_message_edit() takes 1 positional argument but 2 were given
+
+
+2022-12-01 06:55:26.117901:
+started
+
+2022-12-02 18:40:15.162150:
+started
+
+2022-12-03 05:40:31.550684:
+started
+
+2022-12-03 18:55:15.933179:
+started
+
+2022-12-04 07:40:19.523475:
+started
+
+2022-12-04 15:56:41.975197:
+daily added
+
+2022-12-05 02:56:52.336902:
+started
+
+2022-12-05 08:26:40.823536:
+started
+
+2022-12-06 14:47:42.015571:
+started
+
+2022-12-06 21:32:48.260777:
+started
+
+2022-12-07 16:14:22.951070:
+started
+
+2022-12-07 20:13:23.469998:
+started
+
+2022-12-08 01:28:19.590871:
+started
+
+2022-12-08 07:13:21.745548:
+started
+
+2022-12-08 07:58:20.880850:
+started
+
+2022-12-08 08:59:06.235276:
+started
+
+2022-12-08 15:06:52.341966:
+daily added
+
+2022-12-08 20:31:08.342115:
+started
+
+2022-12-08 21:31:10.494592:
+started
+
+2022-12-09 00:30:54.540410:
+started
+
+2022-12-09 02:45:56.397588:
+started
+
+2022-12-09 21:01:22.405861:
+daily added
+
+2022-12-09 21:01:23.598237:
+started
+
+2022-12-10 00:15:56.416443:
+started
+
+2022-12-10 16:33:30.397789:
+daily added
+
+2022-12-10 23:46:00.171265:
+started
+
+2022-12-11 15:39:26.805285:
+daily added
+
+2022-12-12 14:31:59.342825:
+started
+
+2022-12-12 18:46:54.446563:
+daily added
+
+2022-12-12 19:45:55.273807:
+started
+
+2022-12-13 00:16:27.751750:
+started
+
+2022-12-13 03:31:04.796755:
+started
+
+2022-12-14 01:14:13.577523:
+started
+
+2022-12-15 17:56:05.200567:
+started
+
+2022-12-15 18:25:26.185053:
+started
+
+2022-12-15 20:56:55.841289:
+started
+
+2022-12-16 15:25:50.938994:
+started
+
+2022-12-16 20:49:34.629886:
+daily added
+
+2022-12-18 08:23:52.357273:
+daily added
+
+2022-12-18 08:23:53.105275:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 95, in on_ready
+    await record_contribution(m)
+  File "main.py", line 528, in record_contribution
+    await ebot.m_contrib_top.edit(content=newtop)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/message.py", line 1111, in edit
+    data = await self._state.http.edit_message(self.channel.id, self.id, **fields)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 267, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+
+
+2022-12-20 04:10:52.931281:
+daily added
+
+2022-12-20 04:10:53.466575:
+started
+
+2022-12-20 05:55:55.132173:
+started
+
+2022-12-21 01:33:44.955896:
+started
+
+2022-12-21 04:24:45.923417:
+started
+
+2022-12-21 10:54:28.888603:
+started
+
+2022-12-21 12:58:52.102522:
+daily added
+
+2022-12-21 18:24:12.252869:
+started
+
+2022-12-21 18:39:14.048660:
+started
+
+2022-12-22 02:24:11.282439:
+started
+
+2022-12-22 16:16:10.262339:
+started
+
+2022-12-23 10:51:00.597235:
+daily added
+
+2022-12-23 10:51:01.425203:
+daily added
+
+2022-12-23 10:51:21.988071:
+started
+
+2022-12-23 16:45:43.924356:
+started
+
+2022-12-23 21:16:17.867658:
+started
+
+2022-12-24 13:47:33.997328:
+started
+
+2022-12-26 23:09:34.686795:
+daily added
+
+2022-12-26 23:09:35.090717:
+started
+
+2022-12-27 16:54:18.197651:
+started
+
+2022-12-29 02:17:32.127361:
+started
+
+2022-12-29 09:17:15.012983:
+started
+
+2022-12-29 16:58:46.058935:
+started
+
+2022-12-30 18:28:40.775023:
+started
+
+2022-12-31 17:30:40.683449:
+started
+
+2022-12-31 18:45:37.615725:
+started
+
+2022-12-31 20:45:37.599284:
+started
+
+2023-01-01 20:31:00.208976:
+started
+
+2023-01-03 06:13:59.371749:
+started
+
+2023-01-03 06:29:18.635735:
+started
+
+2023-01-03 13:29:02.616898:
+started
+
+2023-01-04 10:14:41.457581:
+started
+
+2023-01-04 16:53:11.000561:
+started
+
+2023-01-04 22:52:41.496618:
+started
+
+2023-01-05 05:52:33.225764:
+started
+
+2023-01-05 14:22:29.319923:
+started
+
+2023-01-05 14:38:00.717710:
+started
+
+2023-01-06 04:52:32.888622:
+started
+
+2023-01-06 08:19:03.139757:
+started
+
+2023-01-06 10:43:58.312385:
+started
+
+2023-01-06 11:58:02.002521:
+started
+
+2023-01-06 13:28:03.727114:
+started
+
+2023-01-06 16:23:03.000245:
+started
+
+2023-01-07 03:24:48.939569:
+started
+
+2023-01-07 10:26:00.695640:
+started
+
+2023-01-07 11:36:26.365337:
+started
+
+2023-01-07 15:17:05.083525:
+started
+
+2023-01-07 21:09:46.930173:
+started
+
+2023-01-08 20:45:33.279027:
+daily added
+
+2023-01-08 20:45:35.037745:
+started
+
+2023-01-09 05:17:08.678682:
+started
+
+2023-01-10 04:47:19.458515:
+started
+
+2023-01-10 11:17:18.182488:
+started
+
+2023-01-10 16:17:26.762675:
+started
+
+2023-01-10 19:32:13.757608:
+started
+
+2023-01-10 20:52:41.084905:
+daily added
+
+2023-01-12 07:49:45.298165:
+started
+
+2023-01-12 08:19:53.727047:
+started
+
+2023-01-12 08:49:55.636512:
+started
+
+2023-01-12 20:20:06.419292:
+started
+
+2023-01-13 11:49:46.133525:
+daily added
+
+2023-01-13 11:49:46.767696:
+started
+
+2023-01-14 08:05:06.936464:
+started
+
+2023-01-14 14:43:14.278448:
+started
+
+2023-01-15 01:42:42.443151:
+started
+
+2023-01-15 14:44:05.460855:
+started
+
+2023-01-15 19:30:00.761592:
+started
+
+2023-01-15 21:29:08.366305:
+started
+
+2023-01-16 02:44:10.444379:
+started
+
+2023-01-16 05:19:17.020379:
+started
+
+2023-01-16 11:19:11.886284:
+started
+
+2023-01-16 12:04:18.932001:
+started
+
+2023-01-16 13:33:49.342158:
+started
+
+2023-01-16 19:04:12.538431:
+started
+
+2023-01-16 20:09:28.025518:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 343, in on_message
+    await ebot.ch_logs.send(
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 216, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | discord.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1015</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 78ab34a20c96ec1f &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2023-01-17 01:09:28 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (discord.com) has banned you temporarily from accessing this website.</p>
+            
+          </div>
+
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">78ab34a20c96ec1f</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">34.82.61.91</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'78ab34a20c96ec1f',m:'HY9Z8e0nEWjYtRKVkSJw8_3hwkAoDlUXWifkB2g2CRM-1673917768-0-AYFzxT1Ysjm1YJVl7S08Sl9mlO2HA3AryymSlu9BF6QohqKzDqYA165ziyr7OljQvAQ5V4gvSwfUmkIaUmptKggqfdSYpISbD4aambCwaUjEaxjdzO2EptjR2DLzoNvO1yq5mDO4F0e54e6wx1V3sa5DV36i2UtXn3N/hGv7Lv38',s:[0x925ca1d190,0x90c7efd34d],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+
+
+2023-01-17 02:18:53.638990:
+daily added
+
+2023-01-17 02:18:54.139307:
+started
+
+2023-01-17 04:03:50.630767:
+started
+
+2023-01-17 08:04:22.076099:
+started
+
+2023-01-17 09:18:17.820319:
+daily added
+
+2023-01-17 11:50:05.753128:
+started
+
+2023-01-17 13:04:19.449314:
+started
+
+2023-01-17 15:33:49.219966:
+started
+
+2023-01-17 18:33:46.655645:
+started
+
+2023-01-18 00:16:06.267437:
+daily added
+
+2023-01-18 00:18:56.136658:
+started
+
+2023-01-18 03:03:37.620799:
+started
+
+2023-01-18 09:31:33.052664:
+started
+
+2023-01-18 16:47:21.742868:
+started
+
+2023-01-19 05:01:36.867182:
+started
+
+2023-01-19 07:46:58.150782:
+started
+
+2023-01-19 12:01:23.668044:
+started
+
+2023-01-19 13:15:05.031538:
+daily added
+
+2023-01-19 13:46:25.372795:
+started
+
+2023-01-19 23:16:22.892269:
+started
+
+2023-01-20 00:46:57.792815:
+started
+
+2023-01-20 03:32:01.050079:
+started
+
+2023-01-20 07:02:59.961632:
+started
+
+2023-01-20 07:31:45.648915:
+started
+
+2023-01-20 14:53:12.158205:
+started
+
+2023-01-20 18:38:36.263708:
+started
+
+2023-01-20 20:48:11.828960:
+daily added
+
+2023-01-21 03:08:28.999638:
+started
+
+2023-01-21 13:28:57.799581:
+started
+
+2023-01-21 20:55:57.664600:
+daily added
+
+2023-01-22 10:53:37.058408:
+daily added
+
+2023-01-22 10:53:37.732201:
+started
+
+2023-01-22 18:53:18.481383:
+started
+
+2023-01-22 21:08:21.310594:
+started
+
+2023-01-23 01:38:38.331740:
+started
+
+2023-01-23 05:52:53.741998:
+started
+
+2023-01-23 07:37:35.091275:
+started
+
+2023-01-23 08:56:12.786904:
+daily added
+
+2023-01-23 12:23:31.608259:
+started
+
+2023-01-23 13:38:48.342030:
+started
+
+2023-01-23 18:53:44.411653:
+started
+
+2023-01-24 04:42:48.654672:
+started
+
+2023-01-24 08:13:21.772333:
+started
+
+2023-01-24 12:42:39.951069:
+started
+
+2023-01-24 16:55:15.577617:
+started
+
+2023-01-24 17:55:26.857109:
+started
+
+2023-01-24 19:25:48.824385:
+started
+
+2023-01-25 07:21:43.758559:
+started
+
+2023-01-25 11:20:59.792744:
+started
+
+2023-01-25 11:39:11.931626:
+started
+
+2023-01-25 13:08:51.592714:
+started
+
+2023-01-25 15:58:08.569767:
+started
+
+2023-01-26 05:41:17.681666:
+started
+
+2023-01-26 14:38:20.151467:
+started
+
+2023-01-27 03:38:17.608713:
+started
+
+2023-01-27 13:36:45.815168:
+started
+
+2023-01-30 02:47:15.938608:
+started
+
+2023-01-30 03:02:16.953611:
+started
+
+2023-01-30 14:02:21.507540:
+started
+
+2023-01-31 04:02:17.296324:
+started
+
+2023-01-31 11:17:18.470026:
+started
+
+2023-01-31 18:36:31.277185:
+daily added
+
+2023-01-31 22:07:47.493224:
+started
+
+2023-02-01 12:17:40.721760:
+daily added
+
+2023-02-01 13:08:00.529962:
+started
+
+2023-02-02 01:53:18.431401:
+started
+
+2023-02-02 03:38:50.276289:
+started
+
+2023-02-02 04:56:48.958182:
+started
+
+2023-02-02 12:11:03.981672:
+started
+
+2023-02-02 22:54:57.800669:
+started
+
+2023-02-03 18:09:47.748587:
+started
+
+2023-02-03 20:09:46.383438:
+started
+
+2023-02-04 10:10:18.032487:
+started
+
+2023-02-04 22:41:04.351181:
+started
+
+2023-02-05 09:55:51.888809:
+started
+
+2023-02-05 21:40:55.256975:
+started
+
+2023-02-05 23:40:43.190912:
+started
+
+2023-02-06 00:56:37.693451:
+started
+
+2023-02-06 10:45:02.374813:
+daily added
+
+2023-02-06 12:57:18.593405:
+started
+
+2023-02-06 14:12:08.101332:
+started
+
+2023-02-07 11:12:03.955590:
+started
+
+2023-02-07 11:57:33.947872:
+started
+
+2023-02-07 12:13:08.120945:
+started
+
+2023-02-07 20:28:58.150487:
+started
+
+2023-02-07 23:31:34.203912:
+daily added
+
+2023-02-08 17:15:38.545590:
+started
+
+2023-02-08 19:15:51.757773:
+daily added
+
+2023-02-08 23:45:25.589250:
+started
+
+2023-02-09 16:42:15.298976:
+daily added
+
+2023-02-09 21:02:50.500633:
+started
+
+2023-02-10 05:18:52.244722:
+started
+
+2023-02-10 12:51:25.376959:
+started
+
+2023-02-10 13:21:53.195537:
+started
+
+2023-02-10 14:51:50.451656:
+started
+
+2023-02-10 16:20:30.388081:
+daily added
+
+2023-02-10 22:52:31.110178:
+started
+
+2023-02-11 15:38:59.333903:
+started
+
+2023-02-11 17:24:09.134023:
+started
+
+2023-02-11 18:45:01.183729:
+daily added
+
+2023-02-12 12:24:51.843231:
+started
+
+2023-02-12 12:55:27.900829:
+started
+
+2023-02-12 15:41:22.842066:
+started
+
+2023-02-12 15:57:02.782205:
+started
+
+2023-02-12 17:27:58.634361:
+started
+
+2023-02-12 18:13:02.510216:
+started
+
+2023-02-12 19:42:54.917537:
+started
+
+2023-02-13 02:12:54.618060:
+started
+
+2023-02-13 23:15:15.236872:
+started
+
+2023-02-14 22:00:29.995399:
+started
+
+2023-02-15 07:45:59.403581:
+started
+
+2023-02-15 08:01:04.308373:
+started
+
+2023-02-15 16:32:07.012634:
+started
+
+2023-02-15 20:50:00.564163:
+daily added
+
+2023-02-16 03:40:57.071922:
+daily added
+
+2023-02-16 14:17:32.087499:
+started
+
+2023-02-17 00:33:03.977301:
+started
+
+2023-02-17 10:17:51.276892:
+started
+
+2023-02-17 15:47:54.153185:
+started
+
+2023-02-17 21:39:55.302286:
+daily added
+
+2023-02-18 00:18:27.362123:
+started
+
+2023-02-18 01:18:43.682495:
+daily added
+
+2023-02-18 20:49:25.742039:
+started
+
+2023-02-19 20:24:25.821623:
+started
+
+2023-02-19 21:20:42.409604:
+daily added
+
+2023-02-20 02:44:05.694435:
+daily added
+
+2023-02-20 15:55:31.686206:
+started
+
+2023-02-21 11:58:55.685534:
+started
+
+2023-02-21 12:02:08.672653:
+daily added
+
+2023-02-22 11:19:35.917933:
+started
+
+2023-02-23 09:14:10.359871:
+started
+
+2023-02-23 13:26:36.956474:
+daily added
+
+2023-02-23 16:59:48.542969:
+started
+
+2023-02-23 19:14:51.784338:
+started
+
+2023-02-24 02:00:10.372402:
+started
+
+2023-02-24 02:15:08.501204:
+started
+
+2023-02-24 03:45:58.045415:
+started
+
+2023-02-24 12:00:57.463303:
+started
+
+2023-02-25 02:31:49.066801:
+started
+
+2023-02-25 03:01:46.395240:
+started
+
+2023-02-25 14:32:28.214052:
+started
+
+2023-02-25 17:03:15.813019:
+started
+
+2023-02-26 02:38:07.804032:
+daily added
+
+2023-02-26 09:33:13.962701:
+started
+
+2023-02-26 21:33:11.615455:
+started
+
+2023-02-27 12:32:02.259257:
+daily added
+
+2023-02-27 12:49:50.925430:
+started
+
+2023-02-27 15:35:16.723091:
+started
+
+2023-02-27 16:05:48.823004:
+started
+
+2023-02-27 21:50:47.122905:
+started
+
+2023-02-28 15:07:35.878142:
+started
+
+2023-02-28 19:37:49.701246:
+daily added
+
+2023-03-01 07:37:59.165940:
+started
+
+2023-03-01 11:13:11.320029:
+daily added
+
+2023-03-01 18:38:13.922835:
+started
+
+2023-03-02 13:28:49.816199:
+daily added
+
+2023-03-02 18:05:49.202622:
+started
+
+2023-03-03 17:13:36.713953:
+started
+
+2023-03-04 04:14:48.596732:
+started
+
+2023-03-05 03:11:13.983185:
+started
+
+2023-03-05 23:28:16.271534:
+daily added
+
+2023-03-06 02:56:10.037498:
+started
+
+2023-03-06 14:37:11.750685:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-06 15:37:23.022843:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-07 08:05:45.998598:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-07 12:22:25.678243:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-07 14:52:33.423504:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-07 18:12:06.135957:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-07 23:08:06.297745:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-07 23:33:06.820788:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-08 19:01:45.064907:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-08 21:38:52.118229:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-09 13:07:46.750344:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-09 16:09:02.003253:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-09 16:24:12.952037:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-09 19:16:39.156927:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-09 19:25:13.894262:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+TypeError: on_message_edit() takes 1 positional argument but 2 were given
+
+
+2023-03-09 23:54:08.037386:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-10 00:24:50.080077:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-10 02:24:32.970156:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-10 20:50:17.813988:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-10 21:20:39.296618:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-10 23:20:59.000803:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-11 13:21:53.081158:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-11 13:52:59.576266:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-12 04:53:10.532908:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-12 13:30:22.162978:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-12 16:23:00.056330:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-13 04:09:20.164164:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-13 14:54:39.518310:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-13 15:09:48.843934:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-13 16:20:14.362124:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-13 23:10:08.470313:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-14 13:47:04.043163:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-14 19:40:36.685690:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-14 20:21:11.755015:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-14 21:34:19.031268:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-15 00:09:19.752029:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-15 18:29:31.035923:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-16 11:53:43.693747:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-16 17:29:24.760965:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-16 19:31:49.264875:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-17 13:17:45.029922:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-17 13:18:56.213175:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-17 13:20:34.888340:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-17 16:00:00.686777:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-17 20:14:53.789925:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-18 00:10:29.093197:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-18 13:15:23.067503:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-19 12:32:29.848726:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-19 21:29:57.238696:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-20 18:00:36.582794:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-20 19:00:13.909965:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-20 20:00:59.598930:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-20 20:26:50.711243:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-21 13:02:11.706542:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-21 19:06:13.509340:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-21 21:32:52.846764:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-21 21:51:04.307025:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-22 09:37:41.766949:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-22 16:58:08.580745:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-22 20:38:15.941864:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-23 00:39:05.549112:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-23 07:17:33.767240:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-23 09:23:47.332571:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-23 14:21:53.260633:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-23 18:02:39.632003:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-23 20:24:33.002747:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-24 05:04:14.255403:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-24 20:04:21.978108:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-24 22:38:34.761432:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-25 01:07:04.924312:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-25 02:37:31.816238:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-25 17:44:05.689944:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-26 01:52:20.915284:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-26 20:34:55.885471:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-27 01:56:24.940813:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-27 07:30:13.393759:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-27 15:16:46.225950:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-27 17:47:31.063657:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-28 07:44:44.779495:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-28 09:01:53.145002:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-28 18:22:10.036854:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-28 18:37:51.554987:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-29 04:38:40.038551:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-29 09:32:29.716638:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-03-29 17:37:04.791764:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-31 01:03:06.889753:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-31 07:33:38.885307:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-03-31 16:52:26.170904:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-01 00:41:26.903974:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-01 14:14:14.088121:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-01 14:51:48.766971:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-01 16:50:51.977866:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-01 20:30:33.294163:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-01 23:06:09.287855:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-02 07:44:49.958097:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-03 11:50:53.082874:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-03 18:26:03.144859:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-03 21:49:17.152869:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-04 04:13:14.249634:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-04 08:48:34.542918:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-04 09:27:47.331599:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-05 03:55:18.885446:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-06 07:10:14.448108:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-06 13:26:09.851693:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-06 18:49:11.060141:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-06 19:12:25.212968:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-07 01:15:51.915201:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-07 10:09:52.220547:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-07 10:11:40.954865:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-08 00:59:10.137379:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-08 10:51:36.387775:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-08 19:38:22.005074:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-09 17:40:27.434565:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-10 10:43:27.918632:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-10 23:17:47.392350:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-11 04:51:00.269207:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-11 14:08:54.571774:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-12 00:16:27.665329:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-12 13:07:32.189780:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-12 23:07:46.840490:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-13 11:45:55.196471:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-13 23:51:47.135972:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-14 10:17:08.200612:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-14 10:33:38.870070:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-14 15:58:15.140241:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-15 13:16:01.197714:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-15 19:38:22.942731:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-15 21:03:11.158131:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-15 21:58:02.758862:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-17 00:51:07.237827:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-18 15:18:30.557101:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-18 18:24:55.180989:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-18 18:44:02.537078:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-18 19:09:47.636441:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-18 19:44:18.720134:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-19 06:38:43.535932:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-19 20:58:04.842834:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-19 22:15:09.869871:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-20 04:01:22.159445:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-20 10:33:11.382956:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-20 14:52:43.999699:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-20 18:40:05.867422:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-20 21:41:30.343560:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-21 07:11:19.169014:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-21 19:09:37.317917:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-21 20:10:42.729471:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-22 08:41:40.263369:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-22 14:58:36.800901:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-23 10:26:24.135015:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-04-23 13:17:25.571761:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-23 20:20:17.836068:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-23 20:50:38.358594:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-24 19:36:15.771461:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-24 22:37:36.321908:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-25 01:10:41.323485:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-25 23:55:50.565678:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-26 14:57:20.204348:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-26 21:01:22.600715:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-27 13:02:56.296993:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-27 18:09:54.740060:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-27 22:41:26.810400:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-28 07:27:28.700011:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-28 13:42:56.379343:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-28 20:20:51.308609:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-29 07:59:49.915586:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-04-30 05:46:01.338813:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-01 12:44:24.233218:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-02 02:32:05.022209:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-02 14:26:20.701936:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-02 23:28:22.703111:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-03 03:46:22.244814:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-04 02:18:20.056901:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-04 17:20:26.144762:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-05-05 13:19:07.248614:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-05 22:49:18.740580:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-06 08:11:35.786745:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-05-06 20:34:25.745207:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-06 21:13:25.321199:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
+2023-05-08 00:40:35.965999:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-08 18:48:35.111922:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-09 00:10:39.914747:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-10 00:20:56.636139:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-10 19:30:47.177087:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-11 19:37:11.697752:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-12 14:32:53.127361:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-12 16:05:31.078000:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-13 03:10:26.220627:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-14 06:03:50.616586:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-15 05:09:58.329439:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-15 16:58:44.177017:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-16 20:52:33.065483:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-17 09:45:52.701508:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-17 17:02:23.633470:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-18 03:09:25.591235:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-18 20:50:19.296111:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-19 07:03:03.984296:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-20 05:34:28.397109:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-21 00:39:55.165187:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-21 09:17:46.897835:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-21 22:45:14.937701:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-22 11:38:59.274794:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 53, in on_ready
+    ebot.m_e_latest_logged = await ebot.ch_e.fetch_message(u.get_latest(2))
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/abc.py", line 1132, in fetch_message
+    data = await self._state.http.get_message(channel.id, id)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 0): 404: Not Found
+
+
+2023-05-22 12:34:37.226387:
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 340, in on_message
+    if await check_correct(m) == 0:
+  File "main.py", line 546, in check_correct
+    elif author_id == ebot.p_author.id:
+AttributeError: 'Bot' object has no attribute 'p_author'
+
+
