@@ -15,4 +15,4 @@ Being bored and up for a challenge, I spent a few months creating this utterly r
 - Seamlessly fixes the chain and resumes normal functionality even if the bot restarts or is somehow down for a period of time
 - Prevents messages from being sent too fast
 
-Maybe it's not very uesful, but hey, at least I learned a lot from it and had fun.
+Perhaps it's not very useful, but hey, at least I learned a lot from it and had fun.
